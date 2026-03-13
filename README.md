@@ -19,11 +19,8 @@
 <a href="mailto:arunpratapsingh052@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/arun-chauhan" target="_blank">
+<a href="https://www.linkedin.com/in/arunchauhan1999" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-</a>&nbsp;
-<a href="https://twitter.com/arun_chauhan" target="_blank">
-<img src="https://img.shields.io/badge/TWITTER-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
 </a>&nbsp;
 <a href="https://wa.me/917818809429" target="_blank">
 <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
